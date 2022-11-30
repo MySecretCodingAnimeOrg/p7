@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Comment CommentText="гигабайт">
+    <Position X="4.092" Y="4.942" Height="0.358" Width="0.825" />
+  </Comment>
   <Class Name="pw7.ReadedFile">
     <Position X="6.75" Y="2.75" Width="3.25" />
     <TypeIdentifier>
@@ -51,6 +54,16 @@
   </Class>
   <Class Name="pw7.Optinosi">
     <Position X="5" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="pw7.Optinosi.Size" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Optinosi.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
     <TypeIdentifier>
       <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Optinosi.cs</FileName>
